@@ -1,0 +1,71 @@
+########################################
+# Program: water
+# Rundate: Thu 12 Nov 2026 09:15:12
+# Commandline: water
+#    -auto
+#    -stdout
+#    -asequence emboss_water-I20261112-091502-0369-91237809-p1m.asequence
+#    -bsequence emboss_water-I20261112-091502-0369-91237809-p1m.bsequence
+#    -datafile EBLOSUM62
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -aformat3 pair
+#    -sprotein1
+#    -sprotein2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NP_000537.3
+# 2: NP_035770.2
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 393
+# Identity:     304/393 (77.4%)
+# Similarity:   326/393 (83.0%)
+# Gaps:           6/393 ( 1.5%)
+# Score: 1558.0
+# 
+#
+#=======================================
+
+NP_000537.3        1 MEEPQSDPSVEPPLSQETFSDLWKLLPENNVLSPLPSQAMDDLMLSPDDI     50
+                     |||.|||.|:|.||||||||.||||||..::| |.| ..||||:| |.|:
+NP_035770.2        4 MEESQSDISLELPLSQETFSGLWKLLPPEDIL-PSP-HCMDDLLL-PQDV     50
+
+NP_000537.3       51 EQWFTEDPGPDEAPRMPEAAPPVAPAPAAPTPAAPAPAPSWPLSSSVPSQ    100
+                     |::|   .||.||.|:..|.....|....|.|.|||||..|||||.||||
+NP_035770.2       51 EEFF---EGPSEALRVSGAPAAQDPVTETPGPVAPAPATPWPLSSFVPSQ     97
+
+NP_000537.3      101 KTYQGSYGFRLGFLHSGTAKSVTCTYSPALNKMFCQLAKTCPVQLWVDST    150
+                     |||||:|||.||||.|||||||.|||||.|||:||||||||||||||.:|
+NP_035770.2       98 KTYQGNYGFHLGFLQSGTAKSVMCTYSPPLNKLFCQLAKTCPVQLWVSAT    147
+
+NP_000537.3      151 PPPGTRVRAMAIYKQSQHMTEVVRRCPHHERCSDSDGLAPPQHLIRVEGN    200
+                     ||.|:|||||||||:|||||||||||||||||||.|||||||||||||||
+NP_035770.2      148 PPAGSRVRAMAIYKKSQHMTEVVRRCPHHERCSDGDGLAPPQHLIRVEGN    197
+
+NP_000537.3      201 LRVEYLDDRNTFRHSVVVPYEPPEVGSDCTTIHYNYMCNSSCMGGMNRRP    250
+                     |..|||:||.||||||||||||||.||:.|||||.|||||||||||||||
+NP_035770.2      198 LYPEYLEDRQTFRHSVVVPYEPPEAGSEYTTIHYKYMCNSSCMGGMNRRP    247
+
+NP_000537.3      251 ILTIITLEDSSGNLLGRNSFEVRVCACPGRDRRTEEENLRKKGEPHHELP    300
+                     |||||||||||||||||:||||||||||||||||||||.|||.....|||
+NP_035770.2      248 ILTIITLEDSSGNLLGRDSFEVRVCACPGRDRRTEEENFRKKEVLCPELP    297
+
+NP_000537.3      301 PGSTKRALPNNTSSSPQPKKKPLDGEYFTLQIRGRERFEMFRELNEALEL    350
+                     |||.|||||..||:||..||||||||||||:||||:||||||||||||||
+NP_035770.2      298 PGSAKRALPTCTSASPPQKKKPLDGEYFTLKIRGRKRFEMFRELNEALEL    347
+
+NP_000537.3      351 KDAQAGKEPGGSRAHSSHLKSKKGQSTSRHKKLMFKTEGPDSD    393
+                     |||.|.:|.|.||||||:||:|||||||||||.|.|..|||||
+NP_035770.2      348 KDAHATEESGDSRAHSSYLKTKKGQSTSRHKKTMVKKVGPDSD    390
+
+
+#---------------------------------------
+#---------------------------------------
